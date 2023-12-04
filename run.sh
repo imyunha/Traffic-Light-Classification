@@ -1,1 +1,1 @@
-python label_image.py new_test_images/
+python3 label_image.py test_images/
